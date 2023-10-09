@@ -1,70 +1,47 @@
-# Ops 102: Intro to Computer Operations
+# Lab: What is a Computer?
 
-## Course Information
+## Overview
 
-- Course Level: Ops 102
+Before we can effectively administer virtual machines with our lab kit PC, it's important to develop a firm grasp of computer hardware components and what role each component plays in supporting the overall performance of the computer. This will allow us to understand the corresponding components represented in both Virtualbox and cloud systems. For example, a computer in the real world such as the lab kit in front of you will be able to process computations faster with a better CPU. Similarly, a virtual CPU resource allocation represented in Virtualbox or a cloud system will directly affect the virtual machine's clock speeds.
 
-## Course Prerequisites
+> These computer hardware labs will arm you with requisite knowledge and reference experiences to appropriately allocate computer resources in both virtual and physical systems. With the rapid adoption of cloud computing, it's important to know your system specs!
 
-- Ops 101
+## Objectives
 
-## Course Description
+Today, you open your lab kit PC (personal computer), identify select components, remove them if instructed to, then catalog them for future reference.
 
-Ready to hack what’s inside the box? Curious about how computers really work? Ever wonder how technology professionals build physical computers, upgrade components, configure virtual machines? Join us for Ops 102! You’ll blast through preparations for Ops 201, deploying and configuring your very own home virtualization lab, which will serve as a platform for skill development as you move through the Ops program and beyond.
+## Resources
 
-## Required Materials
+- Lab kit PC
+- Precision toolkit
+- Anti-static bracelet
 
-### Personal Computer/Laptop
+## Tasks
 
-By the start of the first class, you will need a working computer, meeting the school-specified requirements.
+Create a well-structured Google Doc that itemizes the internal components of your lab computer. Copy and paste the lab instructions into your Google Doc and use text headings to segment the document to describe each component below. Every section should include a **photo**, **description**, and **purpose** of the component. Be sure to take note of any errors, their solutions and resources used. For items that say EXTRACT, completely disconnect the part from the motherboard and case; photograph it on your table in isolation.
 
-### Ops Lab Kit
+> Because you will ultimately be rebuilding this PC, it is critical to carefully follow these directions and carefully document what you did. Take care not to remove components that are not listed below.
 
-The Ops courses lab kit will include a second computer and additional tools for lab. 
+- I/O shield
+- PCI slots on motherboard
+- PCI-Express slots on motherboard
+- Processor or Central Processing Unit (CPU) w/ CPU fan
+- Motherboard, identify make, model, and specs
+- Random Access Memory (RAM) - EXTRACT, identify make, model, and specs
+- Hard drive - EXTRACT, identify make, model, and specs
+- Chassis Fan - EXTRACT, identify make, model, and specs
+- CD/DVD-ROM Drive - EXTRACT, identify make, model, and specs
+- Power supply - identify make, model, and specs
+- Case
 
-### Internet Connection
+Leave the Lab PC disassembled until the next class.
 
-Each student is responsible for their access to the internet for purposes of this course and for research. Internet access is a required component of this course and will not be accepted as an excuse for missed work. If you know that you will be traveling, then make sure you plan accordingly.
+> If you have not received your lab kit tower or monitor yet, you may get started by completing the description and purpose requirements and then resubmit the assignment with pictures of your disassembled computer later.
 
-### Applications
+## Submission Instructions
 
-- [Zoom Video Conferencing Software](https://zoom.us)
-- The latest version of [Google Chrome](https://www.google.com/chrome/browser/desktop/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-### Accounts
-
-- A [GitHub](https://github.com) account
-
-## Program Learning Outcomes
-
-Students will learn system interfaces, identify and install hardware components, and practice deploying Windows and Linux operating systems to build soho networks.
-
-## Student Learning Outcomes
-
-Upon satisfactory completion of this course, a student should be able to:
-
-### Describe and Define
-
-- Understand the core building blocks of computing
-- Gain valuable hands-on experience with computer hardware internals and peripherals
-
-### Execute
-
-- Have your own home lab capable of virtualization
-- Develop proficiency in installing software in Linux
-
-## Course Schedule
-
-| Class # | Topic | Lab |
-|-----------------|-----------|----------|
-| 01 | What is a computer? | Disassemble Lab PC and Identify/Label Parts |
-| 02 | Build a computer. | Assemble a fully working PC |
-| 03 | Startup Sequences and BIOS | Adjust and troubleshoot the BIOS |
-| 04 | Installing Ubuntu Linux OS | Create installable USB & apply |
-| 05 | Installing Virtual Box | Configure Virtual Box on Linux, with Networking |
-| 06 | SOHO Networking | Setup Router, Assemble Cables |
-| 07 | Network Connectivity  | Setup, configure and use remote desktop, ssh and scp |
-| 08 | Virtualization of Windows OS | Create, configure, install Windows VM |
-| 09 | Basic Windows Operations | Manage users, system, network and applications on Windows |
-| 10 | Review | Ops 201 Entrance Exam |
+1. Name the document according to your course code and assignment.
+   - i.e. `seattle-ops-102d33: Lab 04`
+1. Add your name & date at the top of the Google Doc.
+1. Share your Google Doc so that "Anyone with the link can comment".
+1. Paste the link to your Google Doc in the discussion field below and share an observation from your experience in this lab including how long this lab took to complete.
