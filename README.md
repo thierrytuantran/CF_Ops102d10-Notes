@@ -11,3 +11,4 @@
 
 * [Read6](https://github.com/tt11223/CF_Op102d10/wiki/seattle%E2%80%90ops%E2%80%90102d10:-Read-06)
 
+* [Read7](https://github.com/tt11223/CF_Op102d10/wiki/seattle%E2%80%90ops%E2%80%90102d10:-Read-07)
